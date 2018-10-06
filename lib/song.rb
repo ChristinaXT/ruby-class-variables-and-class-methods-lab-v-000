@@ -14,4 +14,10 @@ require 'pry'
 	    @@count += 1
 	    @@genres << genre
 	    @@artists << artist
-end
+   end
+
+ def self.count
+	    @@count
+	  end
+	  
+	  
