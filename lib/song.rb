@@ -23,3 +23,5 @@ require 'pry'
 	  def self.genres
 	    @@genres.uniq!
 	  end
+	  
+	  
